@@ -1,5 +1,5 @@
 
-# What Does Not Kill Me Makes Me Stronger: Source-free Domain Adaptation by Adversarial Attacks
+# Divergence-agnostic Unsupervised Domain Adaptation
 
 This is the PyTorch code for validating our proposed method in this paper. For simple validation purpose, only a trained model and the validation code are provided for review, the full code will be published later. Here we take the task A->D on Office-31 dataset as an example. 
 
